@@ -1,0 +1,58 @@
+p ,
+h1,
+h2{
+    color: blue;
+}
+
+p,
+h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+}
+p{ 
+    
+    text-align: center;
+    font-size: italic;
+
+}
+h1{
+    color: #c20c24;
+}
+
+p{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWwkN50djW1HNNJiqO05TzY5kjlIU3gd5tiw&usqp=CAU);
+
+    color:#c20c24;
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+
+}
+h3{
+    background-position: center;
+}
+
+ 
+
+body{
+        
+    
+
+    background-color: white;
+}
+h3,
+h4,
+h5,
+h6{
+    
+    text-align: center;
+    justify-content: space-around;
+}
+.conteneur{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
